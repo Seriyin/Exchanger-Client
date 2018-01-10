@@ -133,5 +133,6 @@ _**Note:** REST API requests and replies will use JSON format serialization for 
 - Native Java implementation of [Protocol Buffers](https://github.com/google/protobuf).
 - [Java native implementation of ZeroMQ](https://github.com/zeromq/jeromq).
 - [Jackson, JSON for Java](https://github.com/FasterXML/jackson).
+- [Google http-client](https://developers.google.com/api-client-library/java/google-http-java-client/) for generating HTTP requests.
 
 Dependencies are resolved using [Maven](https://maven.apache.org/).
